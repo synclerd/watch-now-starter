@@ -4,7 +4,7 @@
   "id": "com.syncler.watch.now",
   "version": 1,
   "classPath": "watchNow.WatchNowPackage",
-  
+  "permaUrl": "https://raw.githubusercontent.com/synclerd/watch-now-starter/main/package.js"
 }
 */
 
